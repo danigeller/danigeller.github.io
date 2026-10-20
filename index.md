@@ -49,6 +49,8 @@ as tools for controlling biological processes using light.
 
 ## 03 / Beyond the Lab
 
+![Hiking in Israel and traveling in Japan](images/beyond-the-lab.png)
+
 ### Hiking Adventures
 
 I love exploring nature, especially hiking along
@@ -64,14 +66,7 @@ and hidden corners of the world.
 
 ---
 
-## 04 / Through My Lens
-
-Photography is my way of capturing the places,
-people, and moments that make every adventure memorable.
-
----
-
-## 05 / Contact Me
+## 04 / Contact Me
 
 Have a question about my research, want to collaborate,
 or just feel like saying hello?
