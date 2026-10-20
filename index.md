@@ -2,15 +2,15 @@
 layout: default
 ---
 
----
+<section class="editorial-section">
 
-<section class="about-section">
-
-  <div class="about-image">
-    <img src="images/profile.png" alt="Illustrated portrait of Daniel">
+  <div class="section-image">
+    <img src="images/profile.png" alt="Illustrated portrait of Daniel Geller">
   </div>
 
-  <div class="about-text">
+  <div class="section-text">
+
+    <span class="section-number">01 / ABOUT ME</span>
 
     <h2>A Little About Me</h2>
 
@@ -40,61 +40,137 @@ layout: default
 
 </section>
 
----
 
-## 🔬 My Research
+<section class="editorial-section reverse">
 
-### 🧬 Shedding Light on Light-Sensitive Proteins
+  <div class="section-image">
+    <div class="image-placeholder">
+      Research illustration coming soon
+    </div>
+  </div>
 
-Ever wondered how proteins can sense light and turn it
-into a biological signal?
+  <div class="section-text">
 
-That's exactly what I study!
+    <span class="section-number">02 / MY RESEARCH</span>
 
-My research focuses on **animal rhodopsins**,
-light-sensitive proteins belonging to the GPCR family.
+    <h2>Shedding Light on Light-Sensitive Proteins</h2>
 
-Using **cryo-electron microscopy (cryo-EM)**,
-biochemistry, and functional experiments,
-I investigate how these proteins respond to light,
-change their structure, and interact with G proteins.
+    <p>
+      Ever wondered how proteins can sense light and turn it
+      into a biological signal?
+    </p>
 
-My goal is to understand how nature transforms light
-into cellular signals and explore their potential
-as tools for controlling biological processes using light.
+    <p>
+      That's exactly what I study!
+    </p>
 
----
+    <p>
+      My research focuses on <strong>animal rhodopsins</strong>,
+      light-sensitive proteins belonging to the GPCR family.
+    </p>
 
-## 🌍 Beyond the Lab
+    <p>
+      Using <strong>cryo-electron microscopy (cryo-EM)</strong>,
+      biochemistry, and functional experiments,
+      I investigate how these proteins respond to light,
+      change their structure, and interact with G proteins.
+    </p>
 
-When I'm not busy with proteins, you'll probably find me
-somewhere with a camera, a backpack, or a plane ticket.
+    <p>
+      My goal is to understand how nature transforms light
+      into cellular signals and explore their potential
+      as tools for controlling biological processes using light.
+    </p>
 
-### 🥾 Hiking Adventures
+  </div>
 
-I love exploring nature, especially hiking along
-the **Israel National Trail (Shvil Israel)**.
+</section>
 
-### ✈️ Around the World
 
-Traveling is one of my greatest passions!
+<section class="editorial-section">
 
-**Japan 🇯🇵** holds a special place in my heart,
-and I love discovering new cultures, landscapes,
-and hidden corners of the world.
+  <div class="section-image">
+    <div class="image-placeholder">
+      Travel illustration coming soon
+    </div>
+  </div>
 
-### 📸 Through My Lens
+  <div class="section-text">
 
-Photography is my way of capturing the places,
-people, and moments that make every adventure memorable.
+    <span class="section-number">03 / BEYOND THE LAB</span>
 
----
+    <h2>Beyond the Lab</h2>
 
-## 📬 Contact Me
+    <p>
+      When I'm not busy with proteins, you'll probably find me
+      somewhere with a camera, a backpack, or a plane ticket.
+    </p>
 
-Have a question about my research, want to collaborate,
-or just feel like saying hello?
+    <h3>Hiking Adventures</h3>
 
-I'd love to hear from you!
+    <p>
+      I love exploring nature, especially hiking along
+      the <strong>Israel National Trail (Shvil Israel)</strong>.
+    </p>
 
-📧 **Email:** [daniel.zhornist@weizmann.ac.il](mailto:daniel.zhornist@weizmann.ac.il)
+    <h3>Around the World</h3>
+
+    <p>
+      Traveling is one of my greatest passions!
+    </p>
+
+    <p>
+      <strong>Japan</strong> holds a special place in my heart,
+      and I love discovering new cultures, landscapes,
+      and hidden corners of the world.
+    </p>
+
+  </div>
+
+</section>
+
+
+<section class="editorial-section reverse">
+
+  <div class="section-image">
+    <div class="image-placeholder">
+      Photography illustration coming soon
+    </div>
+  </div>
+
+  <div class="section-text">
+
+    <span class="section-number">04 / PHOTOGRAPHY</span>
+
+    <h2>Through My Lens</h2>
+
+    <p>
+      Photography is my way of capturing the places,
+      people, and moments that make every adventure memorable.
+    </p>
+
+  </div>
+
+</section>
+
+
+<section class="contact-section">
+
+  <span class="section-number">05 / GET IN TOUCH</span>
+
+  <h2>Contact Me</h2>
+
+  <p>
+    Have a question about my research, want to collaborate,
+    or just feel like saying hello?
+  </p>
+
+  <p>I'd love to hear from you!</p>
+
+  <p>
+    <a href="mailto:daniel.zhornist@weizmann.ac.il">
+      daniel.zhornist@weizmann.ac.il
+    </a>
+  </p>
+
+</section>
