@@ -12,18 +12,41 @@ hiking trails, or the lens of my camera.
 
 ## 🎓 A Little About Me
 
-![Daniel Geller - Portrait](images/profile.png){: width="350" }
+<section class="about-section">
 
-I earned my B.Sc. in **Biochemistry and Food Science**
-from the Hebrew University's Faculty of Agriculture.
+  <div class="about-image">
+    <img src="images/profile.png" alt="Illustrated portrait of Daniel">
+  </div>
 
-Before joining the Weizmann Institute, I worked at
-**Aleph Farms**, a company pioneering cultivated meat.
+  <div class="about-text">
 
-I completed my M.Sc. in
-[**Prof. Moran Shalev-Benami's lab**](https://www.weizmann.ac.il/csb/shalev-benami/)
-at the Weizmann Institute of Science, where I'm now
-continuing my research as a PhD student.
+    <h2>A Little About Me</h2>
+
+    <p>
+      I'm Daniel Geller, a PhD student at the
+      <strong>Weizmann Institute of Science</strong>.
+    </p>
+
+    <p>
+      I earned my B.Sc. in Biochemistry and Food Science
+      from the Hebrew University's Faculty of Agriculture.
+    </p>
+
+    <p>
+      Before joining Weizmann, I worked at
+      <strong>Aleph Farms</strong>, a company pioneering cultivated meat.
+    </p>
+
+    <p>
+      I completed my M.Sc. in
+      <a href="https://www.weizmann.ac.il/csb/shalev-benami/">
+      Prof. Moran Shalev-Benami's lab</a>,
+      where I'm now continuing my research as a PhD student.
+    </p>
+
+  </div>
+
+</section>
 
 ---
 
