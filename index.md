@@ -2,12 +2,6 @@
 layout: default
 ---
 
-I'm a PhD student at the **Weizmann Institute of Science**, 
-but there's more to me than science!
-
-I love exploring the world, whether it's through a microscope,
-hiking trails, or the lens of my camera.
-
 ---
 
 <section class="about-section">
