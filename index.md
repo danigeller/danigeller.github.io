@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Hi, I'm Daniel! 👋
-
 I'm a PhD student at the **Weizmann Institute of Science**, 
 but there's more to me than science!
 
