@@ -1,0 +1,112 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Import vintage fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+/* General website background */
+
+body {
+  background-color: #F8F1E5;
+  color: #493B2F;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 22px;
+  line-height: 1.6;
+}
+
+/* Website header */
+
+.page-header {
+  background: linear-gradient(
+    135deg,
+    #D9B99B,
+    #E8C9A7,
+    #B7BE9B
+  );
+  color: #493B2F;
+}
+
+/* Website title */
+
+.project-name {
+  color: #493B2F;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+/* Website subtitle */
+
+.project-tagline {
+  color: #665344;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 25px;
+}
+
+/* Main content */
+
+.main-content {
+  background-color: #FFF9EF;
+  color: #493B2F;
+  border-radius: 12px;
+  padding: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  box-shadow: 0 5px 25px rgba(80, 60, 40, 0.08);
+}
+
+/* Section headings */
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #A65332;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 600;
+}
+
+/* Paragraph text */
+
+.main-content p {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 23px;
+  line-height: 1.7;
+}
+
+/* Links */
+
+.main-content a {
+  color: #7A8450;
+  font-weight: 600;
+}
+
+/* Images */
+
+.main-content img {
+  border-radius: 12px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Horizontal separators */
+
+.main-content hr {
+  border: 0;
+  border-top: 1px solid #D8C7B2;
+  margin: 35px 0;
+}
+
+/* Mobile devices */
+
+@media screen and (max-width: 600px) {
+  .main-content {
+    padding: 20px;
+    margin: 15px;
+  }
+
+  .main-content p {
+    font-size: 20px;
+  }
+}
