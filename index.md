@@ -12,6 +12,8 @@ or the lens of my camera.
 
 ## 🎓 A Little About Me
 
+![Daniel Geller - Portrait](images/profile.png)
+
 I earned my B.Sc. in **Biochemistry and Food Science**
 from the Hebrew University's Faculty of Agriculture.
 
