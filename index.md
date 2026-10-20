@@ -1,10 +1,10 @@
-# 🪄 Lumos! Exploring the Magic of Light, One Protein at a Time.
+---
+layout: default
+---
 
-## 👩‍🔬 Hi, I'm Daniel Geller!
+**PhD Student at the Weizmann Institute of Science**
 
-**PhD Student | Weizmann Institute of Science**
-
-I'm a scientist who loves exploring the world,
+I'm Daniel, a scientist who loves exploring the world,
 whether it's through a microscope, hiking trails,
 or the lens of my camera.
 
