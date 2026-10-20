@@ -40,12 +40,12 @@ body {
 
 /* Main content */
 
-.main-content {
-  max-width: 1050px;
-  background: transparent;
-  box-shadow: none;
-  padding: 40px 45px;
-  margin: 20px auto;
+.main-content img.profile-photo {
+  float: left;
+  width: 38%;
+  max-width: 350px;
+  height: auto;
+  margin: 5px 35px 20px 0;
 }
 
 
