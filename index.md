@@ -10,8 +10,6 @@ hiking trails, or the lens of my camera.
 
 ---
 
-## 🎓 A Little About Me
-
 <section class="about-section">
 
   <div class="about-image">
