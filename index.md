@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Through My Lens
 ---
 
 ## 01 / A Little About Me
@@ -78,5 +79,3 @@ or just feel like saying hello?
 I'd love to hear from you!
 
 **Email:** [daniel.zhornist@weizmann.ac.il](mailto:daniel.zhornist@weizmann.ac.il)
-
-</section>
