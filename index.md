@@ -4,7 +4,7 @@ layout: default
 
 ## 01 / A Little About Me
 
-![Daniel Geller - Portrait](images/profile.png)
+![Daniel Geller - Portrait](images/profile.png){: .profile-photo }
 
 I'm Daniel Geller, a PhD student at the
 **Weizmann Institute of Science**.
