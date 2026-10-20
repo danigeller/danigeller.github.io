@@ -3,8 +3,62 @@
 
 @import "jekyll-theme-cayman";
 
-/* Import vintage fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+/* Handwritten botanical typography */
+
+body {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 18px;
+}
+
+.project-name {
+  font-family: 'Caveat', cursive;
+  font-size: 85px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.project-tagline {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  font-family: 'Caveat', cursive;
+  font-weight: 700;
+  color: #A65332;
+}
+
+.main-content h2 {
+  font-size: 46px;
+}
+
+.main-content h3 {
+  font-size: 34px;
+}
+
+.main-content p {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 18px;
+  line-height: 1.9;
+}
+
+@media screen and (max-width: 600px) {
+  .project-name {
+    font-size: 58px;
+  }
+
+  .main-content h2 {
+    font-size: 38px;
+  }
+
+  .main-content p {
+    font-size: 17px;
+  }
+}
+
 
 /* General website background */
 
