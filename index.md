@@ -44,9 +44,7 @@ layout: default
 <section class="editorial-section reverse">
 
   <div class="section-image">
-    <div class="image-placeholder">
-      Research illustration coming soon
-    </div>
+   <img src="images/research.png" alt="Watercolor illustration of rhodopsin and G protein signaling">
   </div>
 
   <div class="section-text">
