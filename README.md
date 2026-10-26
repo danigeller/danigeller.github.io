@@ -28,4 +28,4 @@ This website was developed using:
 - CSS for styling and layout
 - ChatGPT for support with content development, coding,
   visual design, and custom illustrations
-This website is maintained using Visual Studio Code.
+- This website is maintained using Visual Studio Code.
